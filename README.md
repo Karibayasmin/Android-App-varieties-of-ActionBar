@@ -3,7 +3,7 @@
 ### "Theme.AppCompat" 
 When we will use this theme, it will show Dark background with white text.
 
-<img src="app/src/main/res/drawable/darkactionbar.png" width="100" >
+<img src="app/src/main/res/drawable/darkactionbar.png" width="400" >
 
 ### "Theme.AppCompat.Light"
 When we will use this theme, it will show actionbar with basic material design, White background with dark text.
