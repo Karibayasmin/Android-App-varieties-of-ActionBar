@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <!-- <style name="AppTheme" parent="Theme.AppCompat.Light"> // When we will use this theme it will show actionbar with basic material design, White background with dark text -->
+    <!-- <style name="AppTheme" parent="Theme.AppCompat">  // When we will use this theme it will show Dark background with white text. -->
+    <!-- <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar"> // When we will use this theme it will show light background in maximum but dark background in Action bar. -->
+    <!-- <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar"> // When we will use this theme it won't show any Actionbar -->
+    <!-- -->
+    <style name="AppTheme" parent="AppTheme.Base"> <!-- -->
+        <!-- Customize your theme here. -->
+   <!-- <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item> -->
+    </style>
+
+    <style name="AppTheme.Base" parent="Theme.AppCompat.Light.NoActionBar">
+
+    </style>
+
+</resources>
